@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Realidade em Verade</title>
+
+  <style>
+
+    body {
+
+      font-family: "Poppins", sans-serif;
+
+      background: linear-gradient(135deg, #90caf9, #e3f2fd);
+
+      margin: 0;
+
+      padding: 0;
+
+      color: #0d47a1;
+
+      text-align: center;
+
+    }
+
+    header {
+
+      background-color: #1565c0;
+
+      color: white;
+
+      padding: 20px;
+
+      font-size: 1.8em;
+
+    }
+
+    main {
+
+      max-width: 700px;
+
+      margin: 40px auto;
+
+      background: white;
+
+      border-radius: 15px;
+
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+
+      padding: 30px;
+
+    }
+
+    h2 {
+
+      color: #1976d2;
+
+    }
+
+    p {
+
+      line-height: 1.6;
+
+      font-size: 1.1em;
+
+    }
+
+    .button {
+
+      display: inline-block;
+
+      background: #1976d2;
+
+      color: white;
+
+      padding: 10px 20px;
+
+      border-radius: 8px;
+
+      text-decoration: none;
+
+      font-weight: bold;
+
+      transition: 0.3s;
+
+    }
+
+    .button:hover {
+
+      background: #0d47a1;
+
+    }
+
+    footer {
+
+      margin-top: 30px;
+
+      padding: 15px;
+
+      background-color: #1565c0;
+
+      color: white;
+
+      font-size: 0.9em;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+
+    🌎 Realidade em Verade 🎬
+
+  </header>
+
+  <main>
+
+    <h2>Sobre o Reality</h2>
+
+    <p>
+
+      Bem-vindo a <strong>Realidade em Verade</strong>! Um reality show diferente de tudo — com perguntas divertidas, momentos engraçados e situações inesperadas, direto do planeta Verade!
+
+    </p>
+
+    <h2>Como Funciona</h2>
+
+    <p>
+
+      Cada episódio traz novos participantes, histórias e desafios, tudo em um formato leve e criativo com um toque de humor. Os episódios duram cerca de 5 minutos e mostram o lado mais real (e às vezes caótico 😆) dos personagens.
+
+    </p>
+
+    <h2>Quer Participar?</h2>
+
+    <p>
+
+      Para participar do reality, é só me chamar no TikTok:  
+
+      <strong>@Benizin.banana</strong> 💬  
+
+      Envia uma mensagem no PV dizendo que quer participar do “Realidade em Verade”!
+
+    </p>
+
+    <a class="button" href="https://www.tiktok.com/@Benizin.banana" target="_blank">
+
+      Participar Agora
+
+    </a>
+
+  </main>
+
+  <footer>
+
+    © 2025 Realidade em Verade — criado por Benizin
+
+  </footer>
+
+</body>
+
+</html>
